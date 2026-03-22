@@ -48,32 +48,52 @@ Revenue by age group
 The dashboard provides an interactive view of key insights:
 
 KPI Metrics (Total Revenue, Customers, Avg Spend)
+
 Sales by Category & Product
+
 Customer Segmentation
+
 Subscription & Discount Analysis
+
 Age Group Revenue Distribution
+
 Interactive filters for dynamic analysis
+
 📈 Key Insights
 Loyal customers contribute significantly to total revenue
+
 Discounted purchases often lead to higher spending
+
 Subscription-based customers show higher engagement
+
 Certain product categories consistently outperform others
+
 Age groups show distinct purchasing behavior patterns
 
 <img width="1292" height="785" alt="Screenshot 2026-03-22 185541" src="https://github.com/user-attachments/assets/6b9eb39e-aa3a-4c53-bcf6-a602f203a5e6" />
 
 
+
 🚀 Results
+
 Built an end-to-end data analytics project
+
 Converted raw data into meaningful insights
+
 Designed an interactive dashboard for decision-making
 
 🎯 Skills Demonstrated
+
 Data Cleaning & Preprocessing
+
 Exploratory Data Analysis (EDA)
+
 SQL Query Writing (Joins, Aggregations, CTEs)
+
 Data Visualization & Dashboarding
+
 Business Insight Generation
+
 📌 Conclusion
 
 This project demonstrates the ability to work across the complete data analytics lifecycle — from raw data to insights and visualization — making it highly relevant for Data Analyst roles.
